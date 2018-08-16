@@ -1,0 +1,21 @@
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+
+img {
+    height: 400px;
+}
+
+.myname {
+    text-align: center;
+}
+
+.w3-teal {
+    background-color: yellow !important;
+}
+
+.w3-teal {
+    background-color: #03A9F4 !important;
+}
+
+.w3-text-teal {
+    color: #03A9F4 !important;
+}
